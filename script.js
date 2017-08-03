@@ -37,5 +37,3 @@ $('.h1-span').on('click', function() {
 	$('input').focus();
 	$(this).toggleClass('input-on');
 })
-
-// need to figure out how to stripe items in css after deleting and adding.
